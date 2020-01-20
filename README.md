@@ -1,0 +1,2 @@
+# segitigapython
+python segitiga
